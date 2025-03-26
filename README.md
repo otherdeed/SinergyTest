@@ -4,6 +4,6 @@
 
 2)npm start - запуск приложения в режиме разработке
 
-3) node generate.user.json - создание 1млн пользавателей (выполнять в корневой папке)
+3)node generate.user.json - создание 1млн пользавателей (выполнять в корневой папке)
 
-4) json-server db.json - запуск json-server(выполнять команду в папке с db.json)
+4)json-server db.json - запуск json-server(выполнять команду в папке с db.json)
