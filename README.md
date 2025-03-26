@@ -1,27 +1,9 @@
-# vite-template-redux
+# Команды для запуска проекта:
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+1)npm install - установка всех зависимостей
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+2)npm start - запуск приложения в режиме разработке
 
-## Goals
+3) node generate.user.json - создание 1млн пользавателей (выполнять в корневой папке)
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
-
-## Scripts
-
-- `dev`/`start` - start dev server and open browser
-- `build` - build for production
-- `preview` - locally preview production build
-- `test` - launch test runner
-
-## Inspiration
-
-- [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
-- [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
-- [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+4) json-server db.json - запуск json-server(выполнять команду в папке с db.json)
